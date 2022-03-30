@@ -19,6 +19,7 @@ public class PruebaGit {
         String nombre="Angel";
         System.out.println("Esto es una prueba de git");
         System.out.println(nombre);
+        //añadido
     } 
     
 }
